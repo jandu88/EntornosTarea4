@@ -20,7 +20,7 @@ public class CCuenta {
 
     public double estado()
     {
-        return saldo;
+       return saldo;
     }
 
     public void ingresar(double cantidad) throws Exception
